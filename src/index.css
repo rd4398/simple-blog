@@ -74,6 +74,14 @@
   margin: 20px 0;
 }
 
+.blog-details button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
 /* Create new blog */
 .create {
   max-width: 400px;
@@ -108,4 +116,11 @@
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+
+.not-found{
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+  text-align: center;
 }
